@@ -1,0 +1,19 @@
+{
+    "appTitle": "AmjaadIOT",
+    "home": "Home",
+    "profile": "Profile",
+    "allProducts": "all",
+    "welcomeMsg": "Welcome to ",
+    "companyMsg": "AmjaadIOT for IOT solutions",
+    "price": "price",
+    "addToCart": "add to cart",
+    "cart": "cart",
+    "items": "items",
+    "addresses": "addresses",
+    "arabic": "Arabic",
+    "english": "English",
+    "notification": "allow notifications",
+    "location": "allow location",
+    "addAddress": "add new address",
+    "noAddress": "there are no addresses yet, add one please!"
+}

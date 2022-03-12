@@ -1,0 +1,19 @@
+{
+    "appTitle": "أمجادIOT",
+    "home": "الرئيسية",
+    "profile": "الملف الشخصى",
+    "allProducts": "الكل",
+    "welcomeMsg": "اهلا بكم فى ",
+    "companyMsg": "امجاد للخدمات والحلول التقنية",
+    "price": "السعر",
+    "addToCart": "اضف الى السلة",
+    "cart": "السلة",
+    "items": "عناصر",
+    "addresses": "العناويين",
+    "arabic": "عربى",
+    "english": "English",
+    "notification": "السماح بالاشعارات",
+    "location": "السماح بتحديد الموقع",
+    "addAddress": "اضافة عنوان جديد",
+    "noAddress": "لا يوجد عناويين اضف عنوان جديد"
+}

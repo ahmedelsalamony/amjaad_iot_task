@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763650489761",
+    "project_id": "amjaadiottask",
+    "storage_bucket": "amjaadiottask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763650489761:android:760aafad284bf860565fe0",
+        "android_client_info": {
+          "package_name": "com.example.amjaadiot_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763650489761-0gb5bg6sp2qle66kp08jbkv3dc7krcdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALcYP4UnHYWhLKyyVPnDVogtjNOQExF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763650489761-0gb5bg6sp2qle66kp08jbkv3dc7krcdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
